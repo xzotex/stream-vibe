@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  @include fluid-text(18. 14);
+  @include fluid-text(18, 14);
 
   display: flex;
   flex-direction: column;
@@ -23,7 +23,7 @@ h2, .h2,
 h3, .h3,
 h4, .h4,
 h5, .h5,
-h6, .h6, {
+h6, .h6 {
   color: var(--color-white)
 }
 

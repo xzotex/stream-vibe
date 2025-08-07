@@ -1,5 +1,5 @@
 export const metadata = {
-    title: 'Home'
+    title: 'Movies & Shows'
 }
 
 export default function (props) {
