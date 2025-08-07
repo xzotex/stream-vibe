@@ -10,7 +10,7 @@ export default function (props) {
 
     return (
         <>
-            <h1>Главная</h1>
+            <h1>Фильмы</h1>
         </>
     )
 }
