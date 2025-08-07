@@ -55,7 +55,7 @@
 }
 
 @mixin visually-hidden {
-  position: absolute; !important;
+  position: absolute !important;
   width: 1px !important;
   height: 1px !important;
   margin: -1px !important;
